@@ -23,7 +23,14 @@ The **Organic Farm** website features smooth transitions, modern UI, and a fresh
 
 📸 **Screenshots (Output)** 📸  
 Here’s a snapshot of the Organic Farm homepage, capturing the fresh, vibrant design:  
-![Organic Farm Screenshot]()
+📸 **Homepage ** 📸 
+![Organic Farm Screenshot1](https://github.com/eshaagarwa/OrganicFarm/blob/main/2.png)
+
+📸 **home page section 2** 📸 
+![Organic Farm Screenshot1](https://github.com/eshaagarwa/OrganicFarm/blob/main/3.png)
+
+📸 **Product page** 📸 
+![Organic Farm Screenshot1](https://github.com/eshaagarwa/OrganicFarm/blob/main/1.png)
 
 🌟 **Explore the World of Organic Living!** 🌟  
 Dive into the **Organic Farm** website and explore how natural food and modern web design come together. Feedback is always welcome, and if you’d like to suggest improvements or contribute, feel free to reach out. Happy coding! 🎉
